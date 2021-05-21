@@ -34,7 +34,7 @@ body .container {
     padding-left: 28%;
     padding-top: 38%;
 }
-@media screen and (max-width:991px) {
+@media screen and {max-width: 991px;
     #sidemenu {
         border-style: none;
     }
